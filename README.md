@@ -1,5 +1,3 @@
-Thought for a couple of seconds
-
 # Sketch2Color using GAN
 
 **Authors**
