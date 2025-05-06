@@ -1,0 +1,22 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+desktop.ini
+
+# Data & models
+*.h5
+*.ckpt/
+*/logs/
+*/training_checkpoints/
+
+# Docs & drafts
+*.docx
+*jupyter_notebook_backup*
+*.pdf
